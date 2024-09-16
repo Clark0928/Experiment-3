@@ -1,7 +1,7 @@
 ## EXPERIMENT 3
 # PYTHON DATA ANALYSIS (PANDAS)
 ## I. Overview:
-###### This repository focuses on the use of Python Data Analysis (PANDAS) Library, and its various functions and codes. PANDAS is a core Python library that provides high-performance, ###### easy-to-use data structures and data analysis tools for the Python programming language. This will be used to analyze the data from the cars.csv file both easy and intuitive.
+###### This repository focuses on the use of Python Data Analysis (PANDAS) Library, and its various functions and codes. PANDAS is a core Python library that provides high-performance, easy-to-use data structures and data analysis tools for the Python programming language. This will be used to analyze the data from the cars.csv file both easy and intuitive.
 ## II. Intended Learning Outcomes:
 ###### 1. To identify the codes and functions incorporated in the Pandas library
 ###### 2. To be able to apply and use the different codes and functions in creating a Python program using a Pandas library
