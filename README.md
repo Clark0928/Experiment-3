@@ -20,5 +20,5 @@
 ###### 1. FUNTANARES, Clark E.
 ## IV. Version History:
 ###### V 1.0 - Initial Release/ Publication of .ipynb file (9/17/2024)
-###### V 1.1 - Update README file (9/17/2024)
-###### V 1.2 - Published .py file (9/17/2024)
+###### V 1.0.1 - Update README file (9/17/2024)
+###### V 1.0.2 - Published .py file (9/17/2024)
