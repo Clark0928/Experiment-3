@@ -16,7 +16,7 @@
 ###### b. Display the row that contains the ‘Model’ of ‘Mazda RX4’.
 ###### c. How many cylinders (‘cyl’) does the car model ‘Camaro Z28’ have?
 ###### d. Determine how many cylinders (‘cyl’) and what gear type (‘gear’) do the car models ‘Mazda RX4 Wag’, ‘Ford Pantera L’ and ‘Honda Civic’ have.
-### Programmers
+### III. Programmers:
 ###### 1. FUNTANARES, Clark E.
-### Version History
+### IV. Version History:
 ###### V 1.0 - Initial Release/ Publication (9/17/2024)
